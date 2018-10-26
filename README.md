@@ -12,7 +12,7 @@ The customer view of the app takes in orders from users and depletes stock from 
 * JavaScript
 * Node.js
 * MySQL
-* NPM
+
 
 
 # Author
