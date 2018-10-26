@@ -9,10 +9,10 @@ The customer view of the app takes in orders from users and depletes stock from 
 
 
 # Technologies used
-**JavaScript
-**Node.js
-**MySQL
-**NPM
+* JavaScript
+* Node.js
+* MySQL
+* NPM
 
 
 # Author
